@@ -1,6 +1,6 @@
-###################
+
 Membuat Crud di php Native
-###############
+
 
 CRUD adalah akronim untuk Create, Read, Update, dan Delete. Operasi CRUD adalah manipulasi data dasar untuk database. Dalam tutorial ini kita akan membuat aplikasi PHP sederhana untuk melakukan semua operasi ini pada tabel database MySQL di satu tempat.
 
