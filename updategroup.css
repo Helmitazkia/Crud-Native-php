@@ -1,0 +1,37 @@
+.form-input{
+	width:50%;
+	background-color:white;
+	padding: 15px;;
+	color:white;
+	font-size: 15px;
+	text-align:center;
+	margin-top: 60px;
+	margin-left: 27%;
+	font-weight:600;
+	box-shadow: 0 3px 10px rgba(0,0,0.8)
+
+}
+.lbl-gmr{
+ 	display: inline-block;
+    text-align:right;
+    width: 10%;
+    color: black;
+   
+}
+.judul-form{
+	color:white;
+	background-color: blue;
+	height: 75px;
+	font-size: 35px;
+}
+.form-group{
+background-color:blue;
+width: 1300px;
+height: 750px;
+border-top: 10px;
+	
+}
+.border-form{
+border-style:solid;
+	
+}
